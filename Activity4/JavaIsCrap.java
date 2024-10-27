@@ -3,6 +3,11 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
+/*
+ * Problem 2.
+ * This code is partially created by Jay Racion. Just a lil bit modified so that its user input.
+ */
+
 public class JavaIsCrap 
 {
     public static double mean(int[] numbers) 
